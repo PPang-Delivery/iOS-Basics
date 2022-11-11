@@ -8,8 +8,15 @@
 
 --- 
 
-## [Ch5 & Ch6](https://github.com/PPang-Delivery/iOS-Basics/issues/1) - Memory Management / Concurrency
+## [Ch5](https://github.com/PPang-Delivery/iOS-Basics/issues/1) - Memory Management
 
 ---
 
 
+<br/>
+
+--- 
+
+## [Ch6](https://github.com/PPang-Delivery/iOS-Basics/issues/2) - Concurrency
+
+---
