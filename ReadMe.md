@@ -7,7 +7,7 @@
 	</a>
 </figure>
 
-<br>
+<br/>
 
 🆇 Ch1 ~ Ch4 are basics of Swift
 
